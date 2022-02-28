@@ -1,0 +1,10 @@
+.body-section {
+  height: 100vh;
+}
+.card-component {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px;
+}

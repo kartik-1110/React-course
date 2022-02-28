@@ -1,0 +1,19 @@
+.card-body {
+  background-color: yellowgreen;
+  box-sizing: border-box;
+  width: 300px;
+  height: fit-content;
+}
+.card-body img {
+  height: 400px;
+  width: auto;
+}
+.card-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.card-rating img {
+  padding-right: 15px;
+  height: 15px;
+}

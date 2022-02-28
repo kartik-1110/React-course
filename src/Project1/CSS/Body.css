@@ -1,0 +1,24 @@
+.main-div {
+  background-color: rgb(43, 49, 49);
+  height: 100vh;
+  color: white;
+  margin: 0;
+  padding-left: 40px;
+  padding-top: 20px;
+  /* max-width: 500px; */
+  background-image: url(../Assets/react-icon-body.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
+}
+.main-div h1 {
+  font-size: 40px;
+}
+
+.main-div ul {
+  line-height: 2.5;
+  font-size: 20px;
+}
+.main-div ul li::marker {
+  color: #04ccf0;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,700&display=swap");
+.description-main {
+  /* background-color: yellowgreen; */
+  padding: 30px 0px 30px 30px;
+}
+.description-main h1 {
+  font-size: 36px;
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
+.description-main p {
+  padding-top: 10px;
+  font-size: 16px;
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
