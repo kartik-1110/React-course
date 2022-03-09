@@ -7,7 +7,7 @@ import Airbnb from "./Airbnb-project/Airbnb";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Project1 />
+    <Airbnb />
   </React.StrictMode>,
   document.getElementById("root")
 );
